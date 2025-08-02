@@ -74,8 +74,9 @@ As a Computer Science student specializing in Data Science and full-stack Java/M
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/katamoni-vijay-31a260301/)  
-[![GitHub](https://github.com/VijayKatamoni/VijayKatamoni)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katamoni-vijay-31a260301/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VijayKatamoni)  
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaykatamonim47@gmail.com)
 
 ---
