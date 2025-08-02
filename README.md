@@ -65,9 +65,9 @@ As a Computer Science student specializing in Data Science and full-stack Java/M
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay_Katamoni&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayKatamoni&theme=react&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay_Katamoni&layout=compact&theme=react" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayKatamoni&layout=compact&theme=react" alt="Top Languages"/>
 </div>
 
 ---
