@@ -51,7 +51,7 @@ As a Computer Science student specializing in Data Science and full-stack Java/M
 
 ### 🏅 Badges
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sairam_peduri&animated=true&theme=dark)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vijay_katamoni&animated=true&theme=dark)
 
 ---
 
